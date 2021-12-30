@@ -1,2 +1,2 @@
-# ArelUniversityNewWeb
+# ArelUniversityWeb
 Arel University
