@@ -1,2 +1,2 @@
 # ArelUniversityWeb
-Arel University
+Yalnızca pc için tasarlandı
